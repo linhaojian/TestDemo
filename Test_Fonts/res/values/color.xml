@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_title_bg">#F8F8F8</color>
+    <color name="app_title_word_bg">#3996FC</color>
+    <drawable name="app_title_r_click">#FFF</drawable>
+    <drawable name="app_title_r_notclick">#F8F8F8</drawable>
+    <color name="app_bg">#EEEEF3</color>
+    <color name="list">#FFF</color>
+    <color name="list_scan_word">#E0DEDE</color>
+    
+  <drawable name="cancel_click">#FF0000</drawable>
+    <drawable name="cancel_notclick">#ACFF0000</drawable>
+      <drawable name="mingming_click">#AC00FFFF</drawable>
+    <drawable name="mingming_notclick">#00FF00</drawable>
+    
+    <drawable name="btn_clock_click">#4CD864</drawable>
+    <drawable name="btn_clock_notclick">#EEEEF3</drawable>
+</resources>
